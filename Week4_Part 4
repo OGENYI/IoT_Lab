@@ -1,3 +1,4 @@
+```c
 #include <Arduino.h>
 #include <SoftwareSerial.h>
 #define DEBUG true
@@ -50,3 +51,4 @@ InitWifiModule();
 void loop() {
 // put your main code here, to run repeatedly:
 }
+```
